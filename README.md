@@ -26,9 +26,10 @@ Source: [Online Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/samruddh
 
 ## 🔍 SQL Queries & Insights
 
-## 📌 Query 1: 📅 Group By Year and Month (query1)
+### 📌 Query 1: 📅 Group By Year and Month (query1)
 
 **Screenshot:**  
+
 ![Query 1 Output](Screenshots/query%201.png)
 Groups orders by year and month.
 ---
