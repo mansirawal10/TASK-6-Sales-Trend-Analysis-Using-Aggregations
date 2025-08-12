@@ -7,7 +7,8 @@ This project analyzes monthly revenue and order volume trends using SQL (SQLite)
 
 ## 🗂 Dataset
 Table: OnlineSalesData
-Source: Online Sales Dataset (Kaggle)
+
+Source: [Online Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/samruddhi4040/online-sales-data)
 
 ---
 
@@ -25,7 +26,7 @@ Source: Online Sales Dataset (Kaggle)
 
 ## 🔍 SQL Queries & Insights
 
-### 📌 Query 1: 📅 Group By Year and Month (query1)
+## 📌 Query 1: 📅 Group By Year and Month (query1)
 
 **Screenshot:**  
 ![Query 1 Output](Screenshots/query%201.png)
