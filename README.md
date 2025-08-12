@@ -76,4 +76,9 @@ Filters and displays only the last 6 months of revenue and volume.
 
 ## 🔗 Author
 **Mansi Rawal**
+
 Aspiring Business and Data Analyst
+
+[LinkedIn - Mansi Rawal](https://www.linkedin.com/in/mansi-rawal-537111223)
+
+---
