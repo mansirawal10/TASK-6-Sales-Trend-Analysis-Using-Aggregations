@@ -27,7 +27,7 @@ Source: Online Sales Dataset (Kaggle)
 **Purpose:** Retrieve total sales by region for Q1.
 
 **Screenshot:**  
-![Query 1 Output](screenshots/query1.png)
+![Query 1 Output](Screenshots/query%201.png))
 
 ---
 
