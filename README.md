@@ -9,7 +9,7 @@ This project analyzes monthly revenue and order volume trends using SQL (SQLite)
 Table: OnlineSalesData
 Source: Online Sales Dataset (Kaggle)
 
-
+---
 
 ## 📁 Folder Structure
 
@@ -17,49 +17,54 @@ Source: Online Sales Dataset (Kaggle)
 |---------------------|--------------------------------------------------|
 | `screenshots/`      | Contains output screenshots for each query       |
 | `README.md`         | Documentation and visual walkthrough  
-| `Task 6. sql`       | 
+| `Task 6. sql`       |  SQL script containing queries for Task 6        |
+
 
 ---
 
 ## 🔍 SQL Queries & Insights
 
 ### 📌 Query 1: 📅 Group By Year and Month (query1)
-**Purpose:** Retrieve total sales by region for Q1.
 
 **Screenshot:**  
-![Query 1 Output](Screenshots/query%201.png))
+![Query 1 Output](Screenshots/query%201.png)
 
 ---
 
-### 📌 Query 2: Top Customers by Order Count
-**Purpose:** Identify customers with the highest number of orders.
+### 📌 Query 2: 💰 Total Revenue by Month (SUM of Sales)
+
 
 **Screenshot:**  
-![Query 2 Output](screenshots/query2.png)
+![Query 2 Output](Screenshots/query%202.png)
 
+Groups orders by year and month.
 ---
 
-### 📌 Query 3: Average Rating by Product Category
-**Purpose:** Show average customer rating for each product category.
+### 📌 Query 3: 💰 Total Revenue by Month (SUM of Sales)
 
 **Screenshot:**  
-![Query 3 Output](screenshots/query3.png)
+![Query 3 Output](Screenshots/query%203.png)
 
+Calculates monthly total revenue.
 ---
 
-## 📈 Business Impact
-These visual outputs support:
-- Regional performance analysis
-- Customer segmentation
-- Product feedback evaluation
+### 📌 Query 4: 📊 Sorted by Most Recent Month
 
+**Screenshot:**  
+![Query 3 Output](Screenshots/query%204.png)
+
+Revenue and volume sorted by latest month first.
 ---
 
-## 🛠️ Tools Used
-- SQL (SQLite / MySQL / PostgreSQL)
-- GitHub for documentation and version control
+### 📌 Query 5: ⏳ Filter by Specific Time Period (Latest 6 Months)
 
+**Screenshot:**  
+![Query 3 Output](Screenshots/query%205.png)
+
+Filters and displays only the last 6 months of revenue and volume.
 ---
 
-## 📬 Contact
-For questions or feedback, reach out via [LinkedIn](your-link) or email at `your.email@example.com`.
+
+
+## 🔗 Author
+Mansi Rawal
