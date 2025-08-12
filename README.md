@@ -18,6 +18,7 @@ Source: Online Sales Dataset (Kaggle)
 | `screenshots/`      | Contains output screenshots for each query       |
 | `README.md`         | Documentation and visual walkthrough  
 | `Task 6. sql`       |  SQL script containing queries for Task 6        |
+| `Online Sales Data.csv`| Raw Dataset
 
 
 ---
@@ -28,8 +29,7 @@ Source: Online Sales Dataset (Kaggle)
 
 **Screenshot:**  
 ![Query 1 Output](Screenshots/query%201.png)
-
-**Groups orders by year and month.
+Groups orders by year and month.
 ---
 
 ### 📌 Query 2: 💰 Total Revenue by Month (SUM of Sales)
@@ -38,7 +38,7 @@ Source: Online Sales Dataset (Kaggle)
 **Screenshot:**  
 ![Query 2 Output](Screenshots/query%202.png)
 
-Groups orders by year and month.
+Calculates monthly total revenue.
 ---
 
 ### 📌 Query 3: 💰 Total Revenue by Month (SUM of Sales)
@@ -68,4 +68,4 @@ Filters and displays only the last 6 months of revenue and volume.
 
 
 ## 🔗 Author
-Mansi Rawal
+**Mansi Rawal**
