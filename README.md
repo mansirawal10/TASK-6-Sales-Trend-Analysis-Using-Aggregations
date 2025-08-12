@@ -26,12 +26,13 @@ Source: [Online Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/samruddh
 
 ## 🔍 SQL Queries & Insights
 
-### 📌 Query 1: 📅 Group By Year and Month (query1)
+### 📌 Query 1: 📅 Group By Year and Month
 
 **Screenshot:**  
 ![Query 1 Output](Screenshots/query%201.png)
 
 Groups orders by year and month.
+
 ---
 
 ### 📌 Query 2: 💰 Total Revenue by Month (SUM of Sales)
@@ -41,6 +42,7 @@ Groups orders by year and month.
 ![Query 2 Output](Screenshots/query%202.png)
 
 Calculates monthly total revenue.
+
 ---
 
 ### 📌 Query 3: 📦 Order Volume (Count of Unique Orders) 
@@ -49,6 +51,7 @@ Calculates monthly total revenue.
 ![Query 3 Output](Screenshots/query%203.png)
 
 Shows monthly product volume sold.
+
 ---
 
 ### 📌 Query 4: 📊 Sorted by Most Recent Month
@@ -57,6 +60,7 @@ Shows monthly product volume sold.
 ![Query 3 Output](Screenshots/query%204.png)
 
 Revenue and volume sorted by latest month first.
+
 ---
 
 ### 📌 Query 5: ⏳ Filter by Specific Time Period (Latest 6 Months)
@@ -65,6 +69,7 @@ Revenue and volume sorted by latest month first.
 ![Query 3 Output](Screenshots/query%205.png)
 
 Filters and displays only the last 6 months of revenue and volume.
+
 ---
 
 
