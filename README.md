@@ -29,6 +29,7 @@ Source: Online Sales Dataset (Kaggle)
 **Screenshot:**  
 ![Query 1 Output](Screenshots/query%201.png)
 
+**Groups orders by year and month.
 ---
 
 ### 📌 Query 2: 💰 Total Revenue by Month (SUM of Sales)
